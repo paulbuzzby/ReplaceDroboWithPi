@@ -95,4 +95,6 @@ What is an extra pain is that for any hope of the recovery working ALL of the Dr
 
 Will update these as the build happens
 
+* Follow the OMV Install for the Raspberry Pi [raspberry pi install](https://wiki.omv-extras.org/doku.php?id=omv7:raspberry_pi_install)
+
 
